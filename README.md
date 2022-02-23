@@ -1,1 +1,1 @@
-# apple_recog
+# Apple Leaves recognition Model
